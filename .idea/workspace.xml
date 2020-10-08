@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96b8b550-82a7-444d-a96c-d5d2b979c984" name="Default Changelist" comment="TpConnects Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="usmanaquariusian &lt;usmanaquariusian@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iVQOcs4RppjnpVvip6WNjyXB2g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96b8b550-82a7-444d-a96c-d5d2b979c984" name="Default Changelist" comment="" />
+      <created>1601990248754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601990248754</updated>
+      <workItem from="1601990250036" duration="4384000" />
+      <workItem from="1601997183505" duration="15525000" />
+      <workItem from="1602089717892" duration="223000" />
+      <workItem from="1602145547204" duration="279000" />
+      <workItem from="1602146794449" duration="12207000" />
+      <workItem from="1602159029994" duration="1149000" />
+    </task>
+    <task id="LOCAL-00001" summary="TpConnects Project">
+      <created>1602156136088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602156136088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TpConnects Project">
+      <created>1602156520040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602156520040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TpConnects Project">
+      <created>1602158737376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602158737376</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;TpConnects Project&quot;&#10;&#10;This reverts commit 75708f05">
+      <created>1602159098556</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602159098556</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TpConnects Project">
+      <created>1602159515910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602159515910</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TpConnects Project">
+      <created>1602159772224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602159772224</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;TpConnects Project&quot;&#10;&#10;This reverts commit 75708f05" />
+    <MESSAGE value="TpConnects Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="TpConnects Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1165" y="323" key="#Notifications" timestamp="1602157495159">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1165" y="323" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1602157495159" />
+    <state x="1012" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601990977302">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1012" y="355" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1601990977302" />
+    <state x="555" y="91" key="CommitChangelistDialog2" timestamp="1602159095152">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="555" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602159095152" />
+    <state x="348" y="31" key="DiffContextDialog" timestamp="1602158995054">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="348" y="31" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602158995054" />
+    <state x="1338" y="208" key="FileChooserDialogImpl" timestamp="1602158716259">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1338" y="208" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602158716259" />
+    <state x="837" y="423" key="Github.ShareDialog" timestamp="1602159284552">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="837" y="423" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602159284552" />
+    <state x="848" y="393" width="223" height="282" key="MultipleFileMergeDialog" timestamp="1602159074694">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="848" y="393" width="223" height="282" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602159074694" />
+    <state x="702" y="227" key="RollbackChangesDialog" timestamp="1602156104194">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="702" y="227" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602156104194" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1602156304311">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602156304311" />
+    <state x="716" y="202" key="Vcs.Push.Dialog.v2" timestamp="1602159367047">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="716" y="202" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602159367047" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602156618660">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602156618660" />
+    <state x="733" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602158044721">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="733" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602158044721" />
+    <state x="769" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602158007152">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602158007152" />
+    <state x="732" y="386" key="git4idea.rebase.GitRebaseDialog" timestamp="1602157878969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="732" y="386" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602157878969" />
+  </component>
+</project>
